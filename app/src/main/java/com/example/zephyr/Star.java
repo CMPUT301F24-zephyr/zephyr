@@ -1,5 +1,4 @@
 package com.example.zephyr;
 
-public class Star extends Shape{
-
+public class Star {
 }
