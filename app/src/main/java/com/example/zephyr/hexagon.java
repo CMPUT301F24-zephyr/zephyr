@@ -1,4 +1,4 @@
 package com.example.zephyr;
 
-public class hexagon {
+public class hexagon extends shape{
 }
